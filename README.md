@@ -1,4 +1,4 @@
-# dan-chen
+# DOA-estimation-basic
 #to be continued
 
 doa_simulation_ul&uca
